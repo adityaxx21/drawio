@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T15:25:50.948Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="uCagi0_1xkKLaywRMNzC" version="24.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T15:35:12.606Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="CKYeqjukGliqB3ZwBjHt" version="24.7.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="896" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="2169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -34,7 +34,7 @@
         <mxCell id="In08n0NYeDVlmKPiQeU8-11" value="&lt;span class=&quot;hljs-variable&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;hljs-variable&quot;&gt;Purchase&lt;/span&gt; &lt;span class=&quot;hljs-built_in&quot;&gt;Order&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="In08n0NYeDVlmKPiQeU8-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-12" target="In08n0NYeDVlmKPiQeU8-22">
+        <mxCell id="In08n0NYeDVlmKPiQeU8-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-12" target="In08n0NYeDVlmKPiQeU8-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="In08n0NYeDVlmKPiQeU8-12" value="Process payment to vendor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="In08n0NYeDVlmKPiQeU8-19" value="Possible to change material" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="1110" width="80" height="80" as="geometry" />
+          <mxGeometry x="880" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="In08n0NYeDVlmKPiQeU8-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-20" target="In08n0NYeDVlmKPiQeU8-33">
           <mxGeometry relative="1" as="geometry" />
@@ -199,7 +199,7 @@
         <mxCell id="In08n0NYeDVlmKPiQeU8-34" value="Reworkable" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="2080" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="In08n0NYeDVlmKPiQeU8-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-35" target="In08n0NYeDVlmKPiQeU8-27">
+        <mxCell id="In08n0NYeDVlmKPiQeU8-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-35" target="In08n0NYeDVlmKPiQeU8-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="In08n0NYeDVlmKPiQeU8-35" value="&lt;span class=&quot;hljs-built_in&quot;&gt;Update&lt;/span&gt; &lt;span class=&quot;hljs-variable&quot;&gt;Inventory&lt;/span&gt; &lt;span class=&quot;hljs-variable&quot;&gt;Records&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -219,6 +219,11 @@
         </mxCell>
         <mxCell id="In08n0NYeDVlmKPiQeU8-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-38" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-38" target="In08n0NYeDVlmKPiQeU8-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1935.3333333333333" y="1860" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="In08n0NYeDVlmKPiQeU8-38" value="&lt;span class=&quot;hljs-built_in&quot;&gt;Update&lt;/span&gt; &lt;span class=&quot;hljs-variable&quot;&gt;Inventory&lt;/span&gt; &lt;span class=&quot;hljs-variable&quot;&gt;Records&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="2490" width="120" height="60" as="geometry" />
@@ -255,7 +260,7 @@
         <mxCell id="In08n0NYeDVlmKPiQeU8-89" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="80" as="sourcePoint" />
-            <mxPoint x="1451.1764705882354" y="80" as="targetPoint" />
+            <mxPoint x="2070" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="In08n0NYeDVlmKPiQeU8-91" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -275,6 +280,38 @@
         </mxCell>
         <mxCell id="In08n0NYeDVlmKPiQeU8-97" value="Resend material" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-99" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" y="2840" as="sourcePoint" />
+            <mxPoint x="1530" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-100" value="Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1620" y="-60" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-110" value="Inventory" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1830" y="810" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-111" value="Transaction " style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1670" y="810" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-112" target="In08n0NYeDVlmKPiQeU8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-112" target="In08n0NYeDVlmKPiQeU8-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2170" y="628.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-112" value="Insert Transaction Record" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-23" target="In08n0NYeDVlmKPiQeU8-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="In08n0NYeDVlmKPiQeU8-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="In08n0NYeDVlmKPiQeU8-35" target="In08n0NYeDVlmKPiQeU8-110">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
